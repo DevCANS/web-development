@@ -85,4 +85,4 @@ The following resources will help you boost your learning process.
 
 ### Practice Questions
 
-- [JavaScript]` <https://www.hackerrank.com/domains/tutorials/10-days-of-javascript>
+- `[JavaScript]` <https://www.hackerrank.com/domains/tutorials/10-days-of-javascript>
