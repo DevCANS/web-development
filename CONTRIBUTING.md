@@ -8,11 +8,12 @@ Welcome to [Web Devlopement Resources](https://github.com/DevCANS/web-developmen
 - Update/add files and make a pull request.
 - The changes should reflect in [README](README.md) (if applicable).
 
-## File Name Guidelines
+## File/Folder Consistency Guidelines
 
 - All file/folder names must be hyphen `-` separated (**No spaces should be used**).
 - File name must be the same as topic name.
 - Each section should have a separate folder. Folder naming convention should be the same as above.
+- 2-spaces should be used for indentation.
 
 ## Content Guidelines
 
