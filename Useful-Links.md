@@ -86,3 +86,6 @@ The following resources will help you boost your learning process.
 ### Practice Questions
 
 - `[JavaScript]` <https://www.hackerrank.com/domains/tutorials/10-days-of-javascript>
+- `[JavaScript]` <https://www.hackerrank.com/skills-verification/javascript_basic>
+- `[React]` <https://www.hackerrank.com/skills-verification/react_basic>
+- `[Angular]` <https://www.hackerrank.com/skills-verification/angular_basic>
