@@ -40,6 +40,7 @@ The following resources will help you boost your learning process.
 
   - `[WEB BASED]` <https://www.w3schools.com/css/default.asp>
   - `[WEB BASED]` <https://www.tutorialspoint.com/css/index.htm>
+  - `[GITHUB REPO]` <https://github.com/AllThingsSmitty/css-protips>
   - `[VIDEO]` <https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=2>
 
 - #### JS (JavaScript)
