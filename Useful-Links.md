@@ -47,6 +47,7 @@ The following resources will help you boost your learning process.
 
   - `[WEB BASED]` <https://www.w3schools.com/js/default.asp>
   - `[WEB BASED]` <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+  - `[WEB BASED]` <https://javascript.info/>
   - `[WEB BASED]` <https://www.tutorialspoint.com/javascript/index.htm>
   - `[VIDEO]` <https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=3>
   - `[VIDEO]` <https://www.youtube.com/watch?v=o1IaduQICO0>
